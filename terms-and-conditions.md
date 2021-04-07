@@ -14,7 +14,8 @@ You can participate either as part of a team of up to five (5) people or on an i
 Submissions will be judged according to the following criteria: 
 1. Creativity (40%)
 2. Completeness (40%)
-3. Feasibility / Impact (20%)<br>
+3. Feasibility / Impact (20%)
+
 Submissions that earn the highest overall scores will win. Decisions are final.
 
 **Prizes and Awards:**<br>
