@@ -33,7 +33,7 @@ The Mini NFT Hackathon is intended to encourage developers to experiment with NF
 ## :bulb: Ideas
 Developers are encouraged to experiment with building NFT applications using Decentology’s DappStarter platform. 
 
-Need inspiration? [Check out our Hacktivator](https://github.com/decentology/conflux-mini-nft-hackathon/blob/main/ideas.md) ‒ a way to activate the hackathon project idea generation process.
+**Need inspiration? [Check out the Hacktivator](https://github.com/decentology/conflux-mini-nft-hackathon/blob/main/ideas.md) ‒ a fun way to activate the hackathon project idea generation process!**
 
 ## :page_facing_up: Rules
 * Teams are limited to up to 5 participants
