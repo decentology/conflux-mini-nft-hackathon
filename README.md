@@ -3,10 +3,11 @@ Decentology and Conflux are partnering up to host a Mini NFT Hackathon, a 2-week
 * Hackathon Discord Channel: [#nft-mini-hack](https://discord.gg/P3bygCDxJn)
 * Submission Deadline: April 23, 2021 at 11:59pm EDT
 * [Hackathon Workshops](https://www.crowdcast.io/e/kickstart-dapps/)
+* [Decentology's DappStarter platform](https://dappstarter.decentology.com/)
 
 ##  :spiral_calendar: Hackathon Dates
 **Kickoff: April 9, 2021 at 8pm EDT**<br>
-[Save your spot for the Kickoff Event & NFT Workshop](https://www.crowdcast.io/e/kickstart-dapps/)
+[Save your spot for the Kickoff Event & NFT Workshop](https://www.crowdcast.io/e/kickstart-dapps/2)
 
 **Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**
 
@@ -38,7 +39,7 @@ Developers are encouraged to experiment with building NFT applications using Dec
 ## :page_facing_up: Rules
 * Teams are limited to up to 5 participants
 * Participants may submit no more than 1 project
-* To be considered for the prizes, teams must use DappStarter to build
+* To be considered for the prizes, teams must use [DappStarter](https://dappstarter.decentology.com/) to build
 * Teams retain full intellectual property rights to their code
 * Code from prior work may be used but only code created during the hackathon will be evaluated
 * Teams are encouraged to join [#nft-mini-hack channel](https://discord.gg/P3bygCDxJn) on Conflux’s Discord 
