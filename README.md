@@ -1,5 +1,5 @@
 # Mini NFT Hackathon
-Decentology and Conflux are partnering up to host a Mini NFT Hackathon, a 2-week hackathon to help developers get started building NFT applications on Conflux.
+[Decentology](https://www.decentology.com/) and [Conflux](https://confluxnetwork.org/) are partnering up to host a Mini NFT Hackathon, a 2-week hackathon to help developers get started building NFT applications on Conflux.
 * Hackathon Discord Channel: [#nft-mini-hack](https://discord.gg/P3bygCDxJn)
 * Submission Deadline: April 23, 2021 at 11:59pm EDT
 * [Hackathon Workshops](https://www.crowdcast.io/e/kickstart-dapps/)
