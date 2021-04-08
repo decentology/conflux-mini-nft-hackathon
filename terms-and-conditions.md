@@ -1,6 +1,6 @@
 # Mini NFT Hackathon - Terms and Conditions
 
-Organized by Decentology and Conflux Global **(“Organizer”)**.
+Organized by Conflux Global **(“Organizer”)**.
 
 You shall not register for this hackathon if there are legal restrictions in your country of residence or domicile for entering into these Terms. It is your sole responsibility to ensure that your participation in the hackathon is not prohibited by any applicable law, regulation or rule in your country of residence or domicile. 
 
