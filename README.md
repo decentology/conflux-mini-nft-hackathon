@@ -1,3 +1,5 @@
+<img src="https://uploads-ssl.webflow.com/5dea4f8b31edea3328b9a0f6/606f42ef80ac63aeba99e9e7_Github-mini-hack-image.png"
+     alt="Hackathon Banner">
 # Mini NFT Hackathon
 [Decentology](https://www.decentology.com/) and [Conflux](https://confluxnetwork.org/) are partnering up to host a Mini NFT Hackathon, a 2-week hackathon to help developers get started building NFT applications on Conflux.
 * Hackathon Discord Channel: [#nft-mini-hack](https://discord.gg/P3bygCDxJn)
@@ -36,7 +38,7 @@ Developers are encouraged to experiment with building NFT applications using Dec
 
 **Need inspiration? [Check out the Hacktivator](https://github.com/decentology/conflux-mini-nft-hackathon/blob/main/ideas.md) ‒ a fun way to activate the hackathon project idea generation process!**
 
-## :page_facing_up: Rules
+## :page_facing_up: Rules & Requirements
 * Teams are limited to up to 5 participants
 * Participants may submit no more than 1 project
 * To be considered for the prizes, teams must use [DappStarter](https://dappstarter.decentology.com/) to build
