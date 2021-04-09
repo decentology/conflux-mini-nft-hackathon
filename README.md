@@ -6,6 +6,7 @@
 * Submission Deadline: April 23, 2021 at 11:59pm EDT
 * [Hackathon Workshops](https://www.crowdcast.io/e/kickstart-dapps/)
 * [Decentology's DappStarter platform](https://dappstarter.decentology.com/)
+* [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
 
 ##  :spiral_calendar: Hackathon Dates
 **Kickoff: April 9, 2021 at 8pm EDT**<br>
@@ -14,7 +15,7 @@
 **Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**
 
 **Project Submission Deadline: April 23, 2021 at 11:59pm EDT**<br>
-[Project Submission Link](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
+[Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
 
 ## :moneybag: Prizes
 **1st Place:** 900 CFX + opportunity to apply for Conflux Ecosystem Grant with fast-track review process and 1-on-1 with Conflux Ecosystem Grant Manager<br>
@@ -24,7 +25,7 @@
 All participants who submit a project in the Mini NFT Hackathon will receive a Conflux t-shirt.
 
 ## :ballot_box: Submissions
-Participants are expected to submit their projects by April 23, 2021 at 11:59pm EDT [using this submission link](https://confluxnetwork.typeform.com/to/yJT6Nyu4). Projects are expected to submit:
+Participants are expected to submit their projects by April 23, 2021 at 11:59pm EDT [using this submission form](https://confluxnetwork.typeform.com/to/yJT6Nyu4). Projects are expected to submit:
 * (Required) Github repository link for project
 * (Required) Video and/or slide deck showcasing the project
 
