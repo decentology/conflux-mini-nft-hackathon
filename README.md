@@ -12,7 +12,8 @@
 **Kickoff: April 9, 2021 at 8pm EDT**<br>
 [Save your spot for the Kickoff Event & NFT Workshop](https://www.crowdcast.io/e/kickstart-dapps/2)
 
-**Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**
+**Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**<br>
+[Office Hours in #nft-mini-hack Discord channel](https://discord.gg/P3bygCDxJn)
 
 **Project Submission Deadline (extended to April 25): April 25, 2021 at 11:59pm EDT**<br>
 [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
