@@ -14,7 +14,7 @@
 
 **Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**
 
-**Project Submission Deadline: April 23, 2021 at 11:59pm EDT**<br>
+**Project Submission Deadline (extended to April 25): April 25, 2021 at 11:59pm EDT**<br>
 [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
 
 ## :moneybag: Prizes
