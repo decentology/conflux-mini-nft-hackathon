@@ -15,7 +15,7 @@
 **Office Hours:** <br>April 14, 2021 at 8pm EDT <br>April 21, 2021 at 8pm EDT<br>April 22, 2021 at 12pm EDT<br>April 28, 2021 at 8pm EDT<br>
 [Office Hours in #nft-mini-hack Discord channel](https://discord.gg/P3bygCDxJn)
 
-**Project Submission Deadline (extended to May 2): May 2, 2021 at 11:59pm EDT**<br>
+**Project Submission Deadline (extended): May 2, 2021 at 11:59pm EDT**<br>
 [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
 
 ## :moneybag: Prizes
