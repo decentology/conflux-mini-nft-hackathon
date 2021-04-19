@@ -3,7 +3,7 @@
 # Mini NFT Hackathon
 [Decentology](https://www.decentology.com/) and [Conflux](https://confluxnetwork.org/) are partnering up to host a Mini NFT Hackathon, a 2-week hackathon to help developers get started building NFT applications on Conflux.
 * Hackathon Discord Channel: [#nft-mini-hack](https://discord.gg/P3bygCDxJn)
-* Submission Deadline: April 23, 2021 at 11:59pm EDT
+* Submission Deadline: May 2, 2021 at 11:59pm EDT (note: the deadline has been extended to ensure developers have time to use the newest release features of DappStarter's NFT Composer for the Mini Hackathon)
 * [Hackathon Workshops](https://www.crowdcast.io/e/kickstart-dapps/)
 * [Decentology's DappStarter platform](https://dappstarter.decentology.com/)
 * [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
@@ -12,10 +12,10 @@
 **Kickoff: April 9, 2021 at 8pm EDT**<br>
 [Save your spot for the Kickoff Event & NFT Workshop](https://www.crowdcast.io/e/kickstart-dapps/2)
 
-**Office Hours: April 14, 2021 at 8pm EDT and April 21, 2021 at 8pm EDT**<br>
+**Office Hours:** <br>April 14, 2021 at 8pm EDT <br>April 21, 2021 at 8pm EDT<br>April 22, 2021 at 12pm EDT<br>April 28, 2021 at 8pm EDT<br>
 [Office Hours in #nft-mini-hack Discord channel](https://discord.gg/P3bygCDxJn)
 
-**Project Submission Deadline (extended to April 25): April 25, 2021 at 11:59pm EDT**<br>
+**Project Submission Deadline (extended to May 2): May 2, 2021 at 11:59pm EDT**<br>
 [Project Submission Form](https://confluxnetwork.typeform.com/to/yJT6Nyu4)
 
 ## :moneybag: Prizes
@@ -26,7 +26,7 @@
 All participants who submit a project in the Mini NFT Hackathon will receive a Conflux t-shirt.
 
 ## :ballot_box: Submissions
-Participants are expected to submit their projects by April 23, 2021 at 11:59pm EDT [using this submission form](https://confluxnetwork.typeform.com/to/yJT6Nyu4). Projects are expected to submit:
+Participants are expected to submit their projects by May 2, 2021 at 11:59pm EDT [using this submission form](https://confluxnetwork.typeform.com/to/yJT6Nyu4). Projects are expected to submit:
 * (Required) Github repository link for project
 * (Required) Video and/or slide deck showcasing the project
 
