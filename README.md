@@ -1,7 +1,7 @@
 <img src="https://uploads-ssl.webflow.com/5dea4f8b31edea3328b9a0f6/606f42ef80ac63aeba99e9e7_Github-mini-hack-image.png"
      alt="Hackathon Banner">
 # Mini NFT Hackathon
-[Decentology](https://www.decentology.com/) and [Conflux](https://confluxnetwork.org/) are partnering up to host a Mini NFT Hackathon, a 2-week hackathon to help developers get started building NFT applications on Conflux.
+[Decentology](https://www.decentology.com/) and [Conflux](https://confluxnetwork.org/) are partnering up to host a Mini NFT Hackathon, a hackathon to help developers get started building NFT applications on Conflux.
 * Hackathon Discord Channel: [#nft-mini-hack](https://discord.gg/P3bygCDxJn)
 * Submission Deadline: May 2, 2021 at 11:59pm EDT (note: the deadline has been extended to ensure developers have time to use the newest release features of DappStarter's NFT Composer for the Mini Hackathon)
 * [Hackathon Workshops](https://www.crowdcast.io/e/kickstart-dapps/)
